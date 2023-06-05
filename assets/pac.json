@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "header": "Заголовок поста",
+        "content": "Содержимое поста для всего 2 курса",
+        "groups": [],
+        "imageUrl": "https://img1.akspic.ru/previews/1/4/5/2/7/172541/172541-zemlya-luna-planeta-noch-atmosfera-500x.jpg",
+        "course": 2
+    },
+    {
+        "id": 2,
+        "header": "Заголовок поста",
+        "content": "Содержимое поста для всего 2 курса",
+        "groups": [
+            {
+                "groupNumber": "ИНБО-05-21",
+                "course": 2
+            }
+        ],
+        "imageUrl": "https://img1.akspic.ru/previews/1/4/5/2/7/172541/172541-zemlya-luna-planeta-noch-atmosfera-500x.jpg",
+        "course": 0
+    },
+    {
+        "id": 2,
+        "header": "Заголовок поста",
+        "content": "Содержимое поста для всего 2 курса",
+        "groups": [
+            {
+                "groupNumber": "ИНБО-05-21",
+                "course": 2
+            }
+        ],
+        "imageUrl": "https://img1.akspic.ru/previews/1/4/5/2/7/172541/172541-zemlya-luna-planeta-noch-atmosfera-500x.jpg",
+        "course": 0
+    }
+]
